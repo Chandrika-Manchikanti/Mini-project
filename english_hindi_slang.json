@@ -1,0 +1,572 @@
+{
+  "data": [
+    {
+      "english": "That's sick!",
+      "hindi": "यह बहुत जबरदस्त है!",
+      "context":"slang"
+    },
+    {
+      "english": "We had a blast!",
+      "hindi": "हमने बहुत मज़ा किया!",
+      "context":"slang"
+    },
+    {
+      "english": "You're killing it!",
+      "hindi": "तू तो कमाल कर रहा है!",
+      "context":"slang"
+    },
+    {
+      "english": "He's a real one.",
+      "hindi": "वह सच्चा इंसान है।",
+      "context":"slang"
+    },
+    {
+      "english": "She is vibing with the music.",
+      "hindi": "वह म्यूजिक का मजा ले रही है।",
+      "context":"slang"
+    },
+    {
+      "english": "I'm dead, that joke was hilarious!",
+      "hindi": "मैं लोटपोट हो गया, वह जोक बहुत मज़ेदार था!",
+      "context":"slang"
+    },
+    {
+      "english": "That’s a big yikes.",
+      "hindi": "यह तो बहुत बुरा हुआ।",
+      "context":"slang"
+    },
+    {
+      "english": "I'm shook!",
+      "hindi": "मैं चौंक गया!",
+      "context":"slang"
+    },
+    {
+      "english": "You nailed it!",
+      "hindi": "तूने जबरदस्त काम किया!",
+      "context":"slang"
+    },
+    {
+      "english": "That’s sus.",
+      "hindi": "यह तो शक़ी लग रहा है।",
+      "context":"slang"
+    },
+    {
+      "english": "We are just vibing here.",
+      "hindi": "हम यहाँ बस एन्जॉय कर रहे हैं।",
+      "context":"slang"
+    },
+    {
+      "english": "I'm not even mad, that's impressive.",
+      "hindi": "मुझे गुस्सा नहीं आ रहा, यह कमाल है।",
+      "context":"slang"
+    },
+    {
+      "english": "That hit different.",
+      "hindi": "यह कुछ अलग ही था।",
+      "context":"slang"
+    },
+    {
+      "english": "Take the L, bro.",
+      "hindi": "हार मान ले, भाई।",
+      "context":"slang"
+    },
+    {
+      "english": "You're so extra.",
+      "hindi": "तू बहुत ओवरएक्टिंग कर रहा है।",
+      "context":"slang"
+    },
+    {
+      "english": "That’s cringe.",
+      "hindi": "यह तो बहुत अजीब था।",
+      "context":"slang"
+    },
+    {
+      "english": "He ghosted me!",
+      "hindi": "उसने मुझसे कोई संपर्क नहीं किया!",
+      "context":"slang"
+    },
+    {
+      "english": "You're flexing too much.",
+      "hindi": "तू बहुत शेखी बघार रहा है।",
+      "context":"slang"
+    },
+    {
+      "english": "That deal was a steal!",
+      "hindi": "वह सौदा बहुत सस्ता था!",
+      "context":"slang"
+    },
+    {
+      "english": "I'm hyped for the weekend.",
+      "hindi": "मैं वीकेंड के लिए बहुत उत्साहित हूँ।",
+      "context":"slang"
+    },
+    {
+      "english": "Quit playing, spill the tea!",
+      "hindi": "बकवास मत कर, असली बात बता!",
+      "context":"slang"
+    },
+    {
+      "english": "I'm feeling low-key tired.",
+      "hindi": "मैं हल्का सा थका हुआ महसूस कर रहा हूँ।",
+      "context":"slang"
+    },
+    {
+      "english": "That’s a whole mood!",
+      "hindi": "यह पूरी तरह से मेरा हाल है!",
+      "context":"slang"
+    },
+    {
+      "english": "You slayed that outfit!",
+      "hindi": "तेरा आउटफिट जबरदस्त लग रहा है!",
+      "context":"slang"
+    },
+    {
+      "english": "Let's bounce.",
+      "hindi": "चलो चलते हैं।",
+      "context":"slang"
+    },
+    {
+      "english": "You're acting salty today.",
+      "hindi": "तू आज बहुत चिड़चिड़ा लग रहा है।",
+      "context":"slang"
+    },
+    {
+      "english": "This food is bomb!",
+      "hindi": "यह खाना लाजवाब है!",
+      "context":"slang"
+    },
+    {
+      "english": "I'm broke right now.",
+      "hindi": "मेरे पास अभी पैसे नहीं हैं।",
+      "context":"slang"
+    },
+    {
+      "english": "Dude, that was savage!",
+      "hindi": "यार, वह बहुत तगड़ा था!",
+      "context":"slang"
+    },
+    {
+      "english": "This song is fire!",
+      "hindi": "यह गाना जबरदस्त है!",
+      "context":"slang"
+    },
+    {
+      "english": "No cap, this is the best movie!",
+      "hindi": "सच में, यह सबसे अच्छी फिल्म है!",
+      "context":"slang"
+    },
+    {
+      "english": "I'm gonna crash now.",
+      "hindi": "अब मैं सोने जा रहा हूँ।",
+      "context":"slang"
+    },
+    {
+      "english": "Don't be a simp.",
+      "hindi": "बहुत ज्यादा मत झुको।",
+      "context":"slang"
+    },
+    {
+      "english": "We stan a queen!",
+      "hindi": "हमें यह क्वीन पसंद है!",
+      "context":"slang"
+    },
+    {
+      "english": "That’s dope!",
+      "hindi": "यह बहुत बढ़िया है!",
+      "context":"slang"
+    },
+    {
+      "english": "Let’s chill out.",
+      "hindi": "चलो आराम करें।",
+      "context":"slang"
+    },
+    {
+      "english": "Bro, what’s up?",
+      "hindi": "भाई, क्या हाल है?",
+      "context":"slang"
+    },
+    {
+      "english": "That party was lit!",
+      "hindi": "वह पार्टी जबरदस्त थी!",
+      "context":"slang"
+    },
+    {
+      "english": "She is my bestie.",
+      "hindi": "वह मेरी सबसे अच्छी दोस्त है।",
+      "context":"slang"
+    },
+    {
+      "english": "You're wildin'!",
+      "hindi": "तू बहुत नाटक कर रहा है!",
+      "context":"slang"
+    },
+    {
+      "english": "That’s fire!",
+      "hindi": "यह जबरदस्त है!",
+      "context":"slang"
+    },
+    {
+      "english": "I can’t even.",
+      "hindi": "मैं कुछ नहीं कह सकता!",
+      "context":"slang"
+    },
+    {
+      "english": "Let's roll!",
+      "hindi": "चलो चलते हैं!",
+      "context":"slang"
+    },
+    {
+      "english": "That’s sus.",
+      "hindi": "यह तो शक़ी लग रहा है।",
+      "context":"slang"
+    },
+    {
+      "english": "She’s a baddie!",
+      "hindi": "वह बहुत स्टाइलिश है!",
+      "context":"slang"
+    },
+    {
+      "english": "That’s clutch!",
+      "hindi": "यह बहुत ज़बरदस्त था!",
+      "context":"slang"
+    },
+    {
+      "english": "I’m dead.",
+      "hindi": "मैं हंसी से मर गया!",
+      "context":"slang"
+    },
+    {
+      "english": "You're woke.",
+      "hindi": "तू बहुत समझदार है!",
+      "context":"slang"
+    },
+    {
+      "english": "It’s all Gucci.",
+      "hindi": "सब बढ़िया है!",
+      "context":"slang"
+    },
+    {
+      "english": "I’m vibing.",
+      "hindi": "मैं अच्छे मूड में हूँ!",
+      "context":"slang"
+    },
+    {
+      "english": "This hits different.",
+      "hindi": "यह कुछ अलग ही लग रहा है!",
+      "context":"slang"
+    },
+    {
+      "english": "That’s a flex.",
+      "hindi": "यह तो स्टाइल है!",
+      "context":"slang"
+    },
+    {
+      "english": "You’re low-key funny.",
+      "hindi": "तू हल्का सा मजेदार है!",
+      "context":"slang"
+    },
+    {
+      "english": "That’s a banger!",
+      "hindi": "यह जबरदस्त चीज़ है!",
+      "context":"slang"
+    },
+    {
+      "english": "You finessed it!",
+      "hindi": "तूने कमाल कर दिया!",
+      "context":"slang"
+    },
+    {
+      "english": "This slaps!",
+      "hindi": "यह बहुत बढ़िया है!",
+      "context":"slang"
+    },
+    {
+      "english": "She’s extra.",
+      "hindi": "वह बहुत नाटक कर रही है!",
+      "context":"slang"
+    },
+    {
+      "english": "We’re tight.",
+      "hindi": "हम बहुत अच्छे दोस्त हैं!",
+      "context":"slang"
+    },
+    {
+      "english": "You’re trippin’!",
+      "hindi": "तू बहुत सोच रहा है!",
+      "context":"slang"
+    },
+    {
+        "english": "She dropped her phone.",
+        "hindi": "उसने अपना फ़ोन गिरा दिया।",
+        "context": "literal"
+    
+    },
+    {
+        "english": "Cool the soup before serving.",
+        "hindi": "सूप को परोसने से पहले ठंडा करें।",
+        "context": "literal"
+        
+    },
+    {
+        "english": "The weather is cool today.",
+        "hindi": "आज मौसम ठंडा है।",
+        "context": "literal"
+    
+    },
+    {
+        "english": "I went for a run.",
+        "hindi": "मैं दौड़ के लिए गया था।",
+        "context": "literal"
+        },
+      {
+        "english": "She lit the fire.",
+        "hindi": "उसने आग जलाई।",
+        "context": "literal"
+      },
+        {
+          "english": "She lit the lamp.",
+          "hindi": "उसने दीपक जलाया।",
+          "context": "literal"
+        },
+        {
+          "english": "He is sick with fever.",
+          "hindi": "उसे बुखार है।",
+          "context": "literal"
+        },
+        {
+          "english": "The building was destroyed in a blast.",
+          "hindi": "विस्फोट में इमारत नष्ट हो गई।",
+          "context": "literal"
+        },
+        {
+          "english": "The hunter is killing the deer.",
+          "hindi": "शिकारी हिरण को मार रहा है।",
+          "context": "literal"
+        },
+        {
+          "english": "The man was found dead in his apartment.",
+          "hindi": "आदमी अपने अपार्टमेंट में मृत पाया गया।",
+          "context": "literal"
+        },
+        {
+          "english": "The earthquake shook the entire city.",
+          "hindi": "भूकंप ने पूरे शहर को हिला दिया।",
+          "context": "literal"
+        },
+        {
+          "english": "He used a hammer to nail the board.",
+          "hindi": "उसने बोर्ड में कील ठोकने के लिए हथौड़ा इस्तेमाल किया।",
+          "context": "literal"
+        },
+        {
+          "english": "The dog got mad and bit the man.",
+          "hindi": "कुत्ता पागल हो गया और आदमी को काट लिया।",
+          "context": "literal"
+        },
+        {
+          "english": "The ball hit the wall hard.",
+          "hindi": "गेंद जोर से दीवार से टकराई।",
+          "context": "literal"
+        },
+        {
+          "english": "He likes to flex his muscles in the gym.",
+          "hindi": "उसे जिम में अपनी मांसपेशियां दिखाना पसंद है।",
+          "context": "literal"
+        },
+        {
+          "english": "He tried to steal the wallet.",
+          "hindi": "उसने बटुआ चुराने की कोशिश की।",
+          "context": "literal"
+        },
+        {
+          "english": "She accidentally spilled the milk.",
+          "hindi": "उसने गलती से दूध गिरा दिया।",
+          "context": "literal"
+        },
+        {
+          "english": "The hero slayed the dragon.",
+          "hindi": "नायक ने ड्रैगन को मार डाला।",
+          "context": "literal"
+        },
+        {
+          "english": "The ball bounced off the floor.",
+          "hindi": "गेंद ज़मीन से उछल गई।",
+          "context": "literal"
+        },
+        {
+          "english": "The soup tasted salty.",
+          "hindi": "सूप नमकीन था।",
+          "context": "literal"
+        },
+        {
+          "english": "A bomb exploded in the warehouse.",
+          "hindi": "गोदाम में बम फटा।",
+          "context": "literal"
+        },
+        {
+          "english": "They roasted the chicken in the oven.",
+          "hindi": "उन्होंने ओवन में चिकन भुना।",
+          "context": "literal"
+        },
+        {
+          "english": "He went broke after losing his job.",
+          "hindi": "नौकरी खोने के बाद वह कंगाल हो गया।",
+          "context": "literal"
+        },
+        {
+          "english": "They started a fire in the fireplace.",
+          "hindi": "उन्होंने चूल्हे में आग जलाई।",
+          "context": "literal"
+        },
+        {
+          "english": "His car crashed into a tree.",
+          "hindi": "उसकी कार पेड़ से टकरा गई।",
+          "context": "literal"
+        },
+        {
+          "english": "He likes to chill in the garden.",
+          "hindi": "उसे बगीचे में आराम करना पसंद है।",
+          "context": "literal"
+        },
+        {
+          "english": "The wheels started to roll.",
+          "hindi": "पहिए घूमने लगे।",
+          "context": "literal"
+        },
+        {
+          "english": "He grabbed the clutch quickly.",
+          "hindi": "उसने तेजी से क्लच पकड़ा।",
+          "context": "literal"
+        },
+        {
+          "english": "The candle was lit with a matchstick.",
+          "hindi": "मोमबत्ती को माचिस से जलाया गया।",
+          "context": "literal"
+        },
+        {
+          "english": "She was mad at her brother for breaking the vase.",
+          "hindi": "वह अपने भाई से गुस्सा थी क्योंकि उसने फूलदान तोड़ दिया।",
+          "context": "literal"
+        },
+        {
+          "english": "He spilled water on the documents.",
+          "hindi": "उसने दस्तावेज़ों पर पानी गिरा दिया।",
+          "context": "literal"
+        },
+        {
+          "english": "A fire broke out in the forest.",
+          "hindi": "जंगल में आग लग गई।",
+          "context": "literal"
+        },
+        {
+          "english": "He flexed his fingers before playing the piano.",
+          "hindi": "उसने पियानो बजाने से पहले अपनी उंगलियाँ मोड़ीं।",
+          "context": "literal"
+        },
+        {
+          "english": "The athlete nailed the landing.",
+          "hindi": "खिलाड़ी ने लैंडिंग को सही तरीके से पूरा किया।",
+          "context": "literal"
+        },
+        {
+          "english": "The man was shook after the accident.",
+          "hindi": "हादसे के बाद आदमी बहुत डरा हुआ था।",
+          "context": "literal"
+        },
+        {
+          "english": "The thief tried to steal the phone.",
+          "hindi": "चोर ने फोन चुराने की कोशिश की।",
+          "context": "literal"
+        },
+        {
+          "english": "He was dead asleep during the storm.",
+          "hindi": "तूफ़ान के दौरान वह गहरी नींद में था।",
+          "context": "literal"
+        },
+        {
+          "english": "He roasted peanuts on the stove.",
+          "hindi": "उसने चूल्हे पर मूँगफली भुनी।",
+          "context": "literal"
+        },
+        {
+          "english": "She broke the glass accidentally.",
+          "hindi": "उसने गलती से कांच तोड़ दिया।",
+          "context": "literal"
+        },
+        {
+          "english": "The soldier slayed his enemy in battle.",
+          "hindi": "सैनिक ने युद्ध में अपने दुश्मन को मार डाला।",
+          "context": "literal"
+        },
+        {
+          "english": "He bounced the ball on the court.",
+          "hindi": "उसने कोर्ट पर गेंद उछाली।",
+          "context": "literal"
+        },
+        {
+          "english": "The dish exploded like a bomb in the microwave.",
+          "hindi": "माइक्रोवेव में डिश बम की तरह फट गई।",
+          "context": "literal"
+        },
+        {
+          "english": "She crashed her bicycle into a pole.",
+          "hindi": "उसने अपनी साइकिल खंभे से टकरा दी।",
+          "context": "literal"
+        },
+        {
+          "english": "The salt made the soup too salty.",
+          "hindi": "नमक ने सूप को बहुत नमकीन बना दिया।",
+          "context": "literal"
+        },
+        {
+          "english": "The man carried a heavy load and felt sick.",
+          "hindi": "आदमी ने भारी बोझ उठाया और बीमार महसूस किया।",
+          "context": "literal"
+        },
+        {
+          "english": "He lit a torch to see in the dark.",
+          "hindi": "उसने अंधेरे में देखने के लिए मशाल जलाई।",
+          "context": "literal"
+        },
+        {
+          "english": "The boy slipped and hit his head.",
+          "hindi": "लड़का फिसल गया और उसका सिर टकरा गया।",
+          "context": "literal"
+        },
+        {
+          "english": "She spilled the juice on the carpet.",
+          "hindi": "उसने कालीन पर जूस गिरा दिया।",
+          "context": "literal"
+        },
+        {
+          "english": "The soldier was killed in action.",
+          "hindi": "सैनिक युद्ध में मारा गया।",
+          "context": "literal"
+        },
+        {
+          "english": "The driver lost control and crashed the truck.",
+          "hindi": "ड्राइवर ने नियंत्रण खो दिया और ट्रक दुर्घटनाग्रस्त हो गया।",
+          "context": "literal"
+        },
+        {
+          "english": "The bomb squad defused the explosive device.",
+          "hindi": "बम दस्ते ने विस्फोटक वस्तु को निष्क्रिय कर दिया।",
+          "context": "literal"
+        },
+        {
+          "english": "He lost all his savings and went broke.",
+          "hindi": "उसने अपनी सारी बचत खो दी और वह कंगाल हो गया।",
+          "context": "literal"
+        },
+        {
+          "english": "He rolled the dough into a circle.",
+          "hindi": "उसने आटे को गोल आकार में बेल दिया।",
+          "context": "literal"
+        },
+        {
+          "english": "She grabbed the clutch to change the gear.",
+          "hindi": "गियर बदलने के लिए उसने क्लच पकड़ा।",
+          "context": "literal"
+        }
+      ]
+}
